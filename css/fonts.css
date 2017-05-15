@@ -1,0 +1,50 @@
+/* font-family: "BebasRegular"; */
+@font-face {
+    font-family: "BebasRegular";
+    src: url("../fonts/Bebas/BebasRegular/BebasRegular.eot");
+    src: url("../fonts/Bebas/BebasRegular/BebasRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Bebas/BebasRegular/BebasRegular.woff") format("woff"),
+    url("../fonts/Bebas/BebasRegular/BebasRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "BebasBook"; */
+@font-face {
+    font-family: "BebasBook";
+    src: url("../fonts/Bebas/BebasBook/BebasBook.eot");
+    src: url("../fonts/Bebas/BebasBook/BebasBook.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Bebas/BebasBook/BebasBook.woff") format("woff"),
+    url("../fonts/Bebas/BebasBook/BebasBook.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "BebasBold"; */
+@font-face {
+    font-family: "BebasBold";
+    src: url("../fonts/Bebas/BebasBold/BebasBold.eot");
+    src: url("../fonts/Bebas/BebasBold/BebasBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Bebas/BebasBold/BebasBold.woff") format("woff"),
+    url("../fonts/Bebas/BebasBold/BebasBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "BebasLight"; */
+@font-face {
+    font-family: "BebasLight";
+    src: url("../fonts/Bebas/BebasLight/BebasLight.eot");
+    src: url("../fonts/Bebas/BebasLight/BebasLight.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Bebas/BebasLight/BebasLight.woff") format("woff"),
+    url("../fonts/Bebas/BebasLight/BebasLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "BebasThin"; */
+@font-face {
+    font-family: "BebasThin";
+    src: url("../fonts/Bebas/BebasThin/BebasThin.eot");
+    src: url("../fonts/Bebas/BebasThin/BebasThin.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Bebas/BebasThin/BebasThin.woff") format("woff"),
+    url("../fonts/Bebas/BebasThin/BebasThin.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
